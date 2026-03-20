@@ -8,3 +8,5 @@ This project implements a machine learning pipeline to predict customer churn us
 Models were evaluated using cross-validation and test data. Although Random Forest performed best during cross-validation, a drop in test accuracy highlighted the impact of class imbalance and the limitations of relying on accuracy alone. Evaluation was therefore extended to precision, recall, F1-score, and confusion matrix.
 
 The project also saves trained models and label encoders to support future predictions and deployment.
+
+- Further step - Deploy it in streamlit cloud
